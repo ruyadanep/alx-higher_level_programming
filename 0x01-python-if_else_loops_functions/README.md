@@ -7,4 +7,5 @@
 6-print_comb3.py					python script file
 7-islower.py						python script file
 8-uppercase.py						python script file
+9-print_last_digit.py					python script file
 
