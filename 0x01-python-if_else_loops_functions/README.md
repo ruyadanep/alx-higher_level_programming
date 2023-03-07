@@ -14,3 +14,4 @@
 13-insert_number.c					c script file
 lists.h
 100-print_tebahpla.py					python script file
+101-remove_char_at.py 					python script file
