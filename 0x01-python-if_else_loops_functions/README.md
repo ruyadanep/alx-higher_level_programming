@@ -15,3 +15,4 @@
 lists.h
 100-print_tebahpla.py					python script file
 101-remove_char_at.py 					python script file
+102-magic_calculation.py				pythone script file
