@@ -10,3 +10,5 @@
 9-print_last_digit.py					python script file
 10-add.py						python script file
 11-pow.py						python script file
+12-fizzbuzz.py						python script file
+
