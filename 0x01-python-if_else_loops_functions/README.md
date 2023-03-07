@@ -4,3 +4,4 @@
 2-print_alphabet.py					python script file
 4-print_hexa.py						python script file
 5-print_comb2.py					python script file
+6-print_comb3.py					python script file
