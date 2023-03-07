@@ -6,4 +6,5 @@
 5-print_comb2.py					python script file
 6-print_comb3.py					python script file
 7-islower.py						python script file
+8-uppercase.py						python script file
 
