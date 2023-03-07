@@ -13,3 +13,4 @@
 12-fizzbuzz.py						python script file
 13-insert_number.c					c script file
 lists.h
+100-print_tebahpla.py					python script file
