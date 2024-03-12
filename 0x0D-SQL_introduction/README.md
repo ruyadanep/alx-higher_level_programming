@@ -18,4 +18,5 @@ my Sql begins from here
 16-no_link.sql
 00-move_to_utf8.sql
 101-avg_temperatures.sql
+102-top_city.sql
 
