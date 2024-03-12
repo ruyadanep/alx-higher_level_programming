@@ -5,3 +5,5 @@ my Sql begins from here
 3-list_tables.sql
 4-first_table.sql
 5-full_table.sql
+6-list_values.sql
+7-insert_value.sql
