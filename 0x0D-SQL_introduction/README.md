@@ -4,3 +4,4 @@ my Sql begins from here
 2-remove_database.sql
 3-list_tables.sql
 4-first_table.sql
+5-full_table.sql
