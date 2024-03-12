@@ -17,4 +17,5 @@ my Sql begins from here
 15-groups.sql
 16-no_link.sql
 00-move_to_utf8.sql
+101-avg_temperatures.sql
 
