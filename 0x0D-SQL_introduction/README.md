@@ -12,3 +12,4 @@ my Sql begins from here
 10-top_score.sql
 11-best_score.sql
 12-no_cheating.sq
+13-change_class.sql
