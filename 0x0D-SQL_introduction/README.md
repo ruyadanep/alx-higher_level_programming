@@ -16,4 +16,5 @@ my Sql begins from here
 14-average.sql
 15-groups.sql
 16-no_link.sql
+00-move_to_utf8.sql
 
