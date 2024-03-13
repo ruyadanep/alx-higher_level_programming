@@ -7,4 +7,5 @@
  5-unique_id.sql
  6-states.sql
 7-cities.sql
+8-cities_of_california_subquery.sql 
 
