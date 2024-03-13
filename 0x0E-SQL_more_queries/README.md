@@ -18,3 +18,4 @@
 16-shows_by_genre.sql
 100-not_my_genres.sql
 101-not_a_comedy.sql
+102-rating_shows.sql
